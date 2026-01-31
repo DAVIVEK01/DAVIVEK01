@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm DA VIVEK</h1>
 <h3 align="center">Tech aspirant</h3>
 
